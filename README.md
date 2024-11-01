@@ -27,7 +27,8 @@ A great source of information to learn and practice German as a foreign language
 * [Frankfurter Allgemeine Zeitung](http://www.faz.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.faz.FAZ)
 * [Die Welt](https://www.welt.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.cellular.n24hybrid)
 * [die tageszeitung (taz)](https://taz.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.thecode.android.tazreader)
-
+* [Der Heute Journal](https://www.zdf.de/nachrichten-sendungen/heute-journal)
+* [Der Tagesschau](https://www.tagesschau.de/)
 ## TV channels
 * [Das Erste](http://www.daserste.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.daserste.daserste)
 * [Zweites Deutsches Fernsehen](http://www.zdf.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.zdf.android.mediathek)
